@@ -1,16 +1,30 @@
-# go_router_demo
+# Material Design 3 Widgets Demo with GoRouter
 
-A new Flutter project.
+## Description:
+This project serves as a demonstration of the brand-new Material 3 Widgets within the Flutter framework.
 
-## Getting Started
+  - The following widgets have transitioned to Material 3:
+    - AlertDialog
+    - AlertDialog with TextField
+    - AppBar
+    - Card
+    - SimpleDialog
+    - ElevatedButton
+    - FloatingActionButton
+    - Material
+    - NavigationBar
+    - NavigationRail
+    - OutlinedButton
+    - StretchingOverscrollIndicator, which replaces the GlowingOverscrollIndicator
+    - TextButton
+    - Medium Sliver AppBar
+    - Large Sliver AppBar
 
-This project is a starting point for a Flutter application.
+Note: I've opted for the [GoRouter](https://pub.dev/packages/go_router) package to handle screen navigation.
 
-A few resources to get you started if this is your first Flutter project:
+Important: The Flutter team is currently working on Material Design 3 support for other components like, Icon button, Segmented button, Bottom app bar, Chips, Popup menus, Menu bars & Cascading menus, Drawer, Switch, Text fields, AppBar - medium & large variants, Time picker, Date picker, Material banner and many more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow the [GitHub issue](https://github.com/flutter/flutter/issues/91605) and [@FlutterDev](https://twitter.com/FlutterDev) for additional updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/PxmZhLfG/imgonline-com-ua-twotoone-d8z-SYZ5-NLDBWLg.png "img")
